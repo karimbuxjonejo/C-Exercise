@@ -1,2 +1,2 @@
-# C-Exercise
-It is C language codes repository created by my own self.
+# C-Programming Language
+It is C language codes repository created by me.
